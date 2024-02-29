@@ -1,4 +1,4 @@
-from googletrans import Translator #1
+from googletrans import Translator #
 
 translator = Translator()
 text = "Hello, how are you?"
